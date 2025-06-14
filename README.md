@@ -33,7 +33,7 @@ python main/bgv_app_main.py
 
 ## Изисквания
 
-- Python 3.7+
+- Python 3.12.1 или по-нова.
 - tkinter
 - numpy
 - pycryptodome
